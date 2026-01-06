@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=800&color=38B2AC&center=true&vCenter=true&width=600&lines=Junior+Frontend+Developer;HTML+%7C+CSS+%7C+JavaScript;Learning+React+and+Next.js" />
   </a>
 </p>
----
+
 
 ## 👨‍💻 About me
 - Junior Frontend Developer focused on **HTML, CSS, and JavaScript**
