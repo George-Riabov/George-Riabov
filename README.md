@@ -36,15 +36,16 @@
 ---
 
 ## 📂 Projects
-- **Paw Haven** — team-based SPA built with **JavaScript** (DOM, dynamic rendering)  
-- **Coffee Joy** — team project built with **HTML/CSS** (responsive layout, responsive images)
+- [Paw Haven](https://github.com/George-Riabov/paw-haven) — team-based SPA built with **JavaScript** (DOM, dynamic rendering)
+   
+- [Coffee Joy](https://github.com/George-Riabov/project-CoffeeJoy10) — team project built with **HTML/CSS** (responsive layout, responsive images)
 
 ---
 
 ## 🌍 Languages
-- Ukrainian — Native
-- Polish — Fluent
-- English — Pre-Intermediate (A2)
+![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-blue?style=for-the-badge)
+![English](https://img.shields.io/badge/English-A2%20(Pre--Intermediate)-orange?style=for-the-badge)
+![Polish](https://img.shields.io/badge/Polish-B2%20(Professional)-green?style=for-the-badge)
 
 ---
 
