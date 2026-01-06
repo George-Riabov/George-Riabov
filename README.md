@@ -16,12 +16,22 @@
 ---
 
 ## 🛠 Tech stack
-- **HTML5**
-- **CSS3** (Flexbox, Grid, Responsive Design)
-- **JavaScript (ES6+)**
-- **DOM Manipulation**
-- **Git & GitHub**
-- **Scrum / Agile** (team projects)
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github" />
+</p>
+
+- Semantic HTML5  
+- CSS3 (Flexbox, Grid, Responsive Design)  
+- JavaScript (ES6+, DOM manipulation)  
+- Git & GitHub  
+- Teamwork (Scrum / Agile)
+
+## 📚 Currently learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs" />
+</p>
 
 ---
 
