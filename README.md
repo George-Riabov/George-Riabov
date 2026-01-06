@@ -1,30 +1,7 @@
-# Hi, I'm George 👋  
-Junior Frontend Developer
+<h1 align="center">Hi 👋, I'm George</h1>
 
----
-
-## 👨‍💻 About me
-- I am a Junior Frontend Developer focused on HTML, CSS, and JavaScript  
-- Currently learning React and Next.js  
-- Interested in building responsive and user-friendly web interfaces  
-- Open to junior or trainee frontend opportunities  
-
----
-
-## 🛠 Tech stack
-- HTML5 / CSS3  
-- JavaScript (ES6+)  
-- Responsive Web Design  
-- Git & GitHub  
-
----
-
-## 📂 Projects
-- **Coffee Joy** — team project (HTML, CSS, responsive layout)  
-- **Paw Haven** — team SPA project (JavaScript, DOM, API, Scrum workflow)  
-
----
-
-## 📫 Contact
-- Email: george.riabov3105@gmail.com  
-- Location: Poland
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=800&color=38B2AC&center=true&vCenter=true&width=600&lines=Junior+Frontend+Developer;HTML+%7C+CSS+%7C+JavaScript;Learning+React+and+Next.js" />
+  </a>
+</p>
