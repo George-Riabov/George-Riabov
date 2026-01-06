@@ -43,9 +43,10 @@
 ---
 
 ## 🌍 Languages
-![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-blue?style=for-the-badge)
-![English](https://img.shields.io/badge/English-A2%20(Pre--Intermediate)-orange?style=for-the-badge)
-![Polish](https://img.shields.io/badge/Polish-B2%20(Professional)-green?style=for-the-badge)
+![English](https://img.shields.io/badge/English-B1-orange)
+![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-blue)
+![Polish](https://img.shields.io/badge/Polish-B2-green)
+
 
 ---
 
