@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm George 👋  
+Junior Frontend Developer
 
-<!--
-**George-Riabov/George-Riabov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👨‍💻 About me
+- I am a Junior Frontend Developer focused on HTML, CSS, and JavaScript  
+- Currently learning React and Next.js  
+- Interested in building responsive and user-friendly web interfaces  
+- Open to junior or trainee frontend opportunities  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech stack
+- HTML5 / CSS3  
+- JavaScript (ES6+)  
+- Responsive Web Design  
+- Git & GitHub  
+
+---
+
+## 📂 Projects
+- **Coffee Joy** — team project (HTML, CSS, responsive layout)  
+- **Paw Haven** — team SPA project (JavaScript, DOM, API, Scrum workflow)  
+
+---
+
+## 📫 Contact
+- Email: george.riabov3105@gmail.com  
+- Location: Poland
