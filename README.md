@@ -49,6 +49,18 @@
 
 ---
 
-## 📫 Contact
-- LinkedIn: https://www.linkedin.com/in/heorhii-riabov
+## 📬 Contact me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/heorhii-riabov/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://t.me/RiabovGeorge" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="mailto:george.riabov@outlook.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
 
