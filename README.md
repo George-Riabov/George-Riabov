@@ -15,6 +15,10 @@
 
 ---
 
+<table>
+<tr>
+<td width="65%" valign="top">
+
 ## 🛠 Tech stack
 
 <p>
@@ -27,11 +31,18 @@
 - Git & GitHub  
 - Teamwork (Scrum / Agile)
 
+</td>
+<td width="35%" valign="top">
+
 ## 📚 Currently learning
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs" />
 </p>
+
+</td>
+</tr>
+</table>
 
 ---
 
