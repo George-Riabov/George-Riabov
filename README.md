@@ -15,13 +15,11 @@
 
 ---
 
-<table width="100%">
-<tr>
-<td width="70%" valign="top">
-
 ## 🛠 Tech stack
 
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github" />
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github" />
+</p>
 
 - Semantic HTML5  
 - CSS3 (Flexbox, Grid, Responsive Design)  
@@ -29,28 +27,11 @@
 - Git & GitHub  
 - Teamwork (Scrum / Agile)
 
-</td>
-<td width="30%" valign="top" align="center">
-
-## 📚 Currently learning
-
-<br />
-
-<img src="https://skillicons.dev/icons?i=react,nextjs" />
-
-</td>
-</tr>
-</table>
-
 ## 📚 Currently learning
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs" />
 </p>
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -82,5 +63,3 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
-
