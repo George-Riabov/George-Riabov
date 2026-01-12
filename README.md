@@ -15,15 +15,13 @@
 
 ---
 
-<table>
+<table width="100%">
 <tr>
-<td width="65%" valign="top">
+<td width="70%" valign="top">
 
 ## 🛠 Tech stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github" />
 
 - Semantic HTML5  
 - CSS3 (Flexbox, Grid, Responsive Design)  
@@ -32,7 +30,17 @@
 - Teamwork (Scrum / Agile)
 
 </td>
-<td width="35%" valign="top">
+<td width="30%" valign="top" align="center">
+
+## 📚 Currently learning
+
+<br />
+
+<img src="https://skillicons.dev/icons?i=react,nextjs" />
+
+</td>
+</tr>
+</table>
 
 ## 📚 Currently learning
 
